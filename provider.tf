@@ -11,14 +11,6 @@ provider "aws" {
   secret_key = "HJsGLiYl0ffW+PK4n2eWJcINtuJD3hEUvFdgThNx"
 }
 
-kio
-kmkm
-kmpm
-mpovf[p
-povpo
-1230.2'.v
-/vl;m
-lkmclk
 
 
 
